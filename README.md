@@ -1,5 +1,5 @@
 # wii-hbguide
-The source code for the https://zuper64.github.io/wii-homebrew
+The source code for https://zuper64.github.io/wii-homebrew
 
 The code found is a modified version of Skyybrew's code, the original developers will be credited below.
 
