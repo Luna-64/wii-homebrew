@@ -7,7 +7,7 @@
 -
 - [Bluebomb](/bluebomb)
 -
-- [FlashHax](/flashhax)
+- [FlashHax](/FlashHax)
 ---
 - **The Essentials**
 - [Priiloader](/priiloader)
