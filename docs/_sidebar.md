@@ -16,11 +16,12 @@
 - [Save Game Manager GX](/sgmgx)
 ---
 - **Services**
-[WiiLink24](/wiilink)
+[WiiLink24](/WiiLink)
 [RiiConnect24](/rc24)
 ---
 - **Extra Information**
 [Extra Info](/FAQ)
+[Credits](/credits)
 ---
 - **Socials**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/zuper64/wii-homebrew)
