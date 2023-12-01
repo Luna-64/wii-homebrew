@@ -1,4 +1,6 @@
 - **Exploits**
+- [Choose your exploit](/chooseyourexploit)
+-
 - [str2hax](/str2hax)
 -
 - [LetterBomb](/letterbomb)
