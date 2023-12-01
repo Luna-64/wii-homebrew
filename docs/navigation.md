@@ -11,7 +11,7 @@ These are all of our current pages.
 
 [Bluebomb](/bluebomb)
 
-[FlashHax](/flashhax)
+[FlashHax](/FlashHax)
 
 ### The Essentials
 [Priiloader](/priiloader)
@@ -24,10 +24,14 @@ These are all of our current pages.
 
 [Nintendont](/nintendont)
 
-[Open Shop Channel](/osc)
+[Open Shop Channel](/OSC)
 
 [Save Game Manager GX](/sgmgx)
 
 ### Services
-[WiiLink24](/wiilink)
+[WiiLink24](/WiiLink)
 [RiiConnect24](/rc24)
+
+### Extra info
+[FAQ](/FAQ]
+[Credits](/credits)
