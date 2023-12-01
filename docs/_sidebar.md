@@ -12,7 +12,7 @@
 - [cIOS](/cIOS)
 - [Riivolution](/riivolution)
 - [USB Loader GX](/ULGX)
-- [Open Shop Channel](/osc)
+- [Open Shop Channel](/OSC)
 - [Save Game Manager GX](/sgmgx)
 ---
 - **Services**
