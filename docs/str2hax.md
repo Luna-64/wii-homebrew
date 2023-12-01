@@ -1,7 +1,5 @@
 # str2hax
 
-?> For support in English, ask in the discord [server](https://discord.gg/QvGQqx8Mns)
-
 !> Modding does not come with a warranty, and we are not responsible for any damage done to your Wii.
 
 ?> You will need an internet connection on your Wii for this exploit
