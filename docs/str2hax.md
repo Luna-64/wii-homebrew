@@ -13,8 +13,7 @@
 To run this exploit, you must change your current DNS settings.
 
 1. Go to the ``Wii Options`` tab on the bottom left of the screen.
-2. Select the ``Wii Settings`` option.
-[Settings]([/str2hax-images/settings.png](/str2hax-images/settings.png))
+2. Select the ``Wii Settings`` option. ![Settings](/str2hax-images/settings.png)
 3. Navigate one page to the right and select the `Internet` option.
 4. Go to ``Connection Settings``.
 5. There will be 3 connection configuration slots. Select the WIFI connection you currently are on.
