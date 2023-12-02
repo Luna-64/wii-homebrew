@@ -10,7 +10,7 @@ The Homebrew Channel allows you to launch Homebrew applications and BootMii help
 2. This will take you to the HackMii installer. Locate the `Continue` button on the bottom left of the screen and press it.
 ![continue](hackmii-images/continue.png)
 3. In the HackMii installer menu, select the option that says `Install the Homebrew Channel`
-![hbc](hackmii-images/hbc-install)
+![hbc](hackmii-images/hbc-install.png)
 4. Wait for the installation to complete, and once finished, press the `Continue` button to proceed.
 
 ## Installing BootMii
