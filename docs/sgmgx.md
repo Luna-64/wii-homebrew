@@ -12,8 +12,8 @@ SaveGame Manager GX is a homebrew app that lets you extract (back up) and instal
  * [SaveGame Manager GX](https://hbb1.oscwii.org/api/v3/contents/SaveGame_Manager_GX/SaveGame_Manager_GX.zip)
 
 ### How to run it
-2. Copy the ```apps``` folder from the ```.zip``` you downloaded, and copy it onto the root of your SD card.
-3. Open the Homebrew Channel and launch SaveGame Manager GX from the list of homebrew
+1. Copy the ```apps``` folder from the ```.zip``` you downloaded, and copy it onto the root of your SD card.
+2. Open the Homebrew Channel and launch SaveGame Manager GX from the list of homebrew
 
 ### Installing save files
 
