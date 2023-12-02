@@ -4,6 +4,7 @@
 - Penguru
 - Bott
 - Obamium
+- SammyGoesHowdy
 
 ## Skyybrew Developers
 - Skyy
