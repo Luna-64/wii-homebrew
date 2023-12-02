@@ -7,11 +7,13 @@ These are all of our current pages.
 ### Exploits
 [str2hax](/str2hax)
 
-[LetterBomb](/letterbomb)
+[Wilbrand](/wilbrand)
 
 [Bluebomb](/bluebomb)
 
 [FlashHax](/FlashHax)
+
+[LetterBomb](/letterbomb)
 
 ### The Essentials
 [Priiloader](/priiloader)
