@@ -1,4 +1,4 @@
-## Bannerbomb tutorial
+## Bannerbomb
 
 !> Bannerbomb only works on v4.2 and below, but this can be circumvented by using the system menu hacks feature 'Re-Enable Bannerbomb v2' on Priiloader.
 
