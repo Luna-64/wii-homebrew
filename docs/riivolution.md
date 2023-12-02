@@ -1,4 +1,4 @@
-# Riivolution Guide
+# Riivolution
 
 ?> Riivolution is a way to add temporary ROM hacks to your disc
 
