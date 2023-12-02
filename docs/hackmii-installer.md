@@ -1,7 +1,5 @@
 # Installing the Homebrew Channel and BootMii
 
-?> For support in English, ask in the discord [server](https://discord.gg/dK5rNaMhMt)
-
 The Homebrew Channel allows you to launch Homebrew applications and BootMii helps provide brick protection.
 
 

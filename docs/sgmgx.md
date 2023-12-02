@@ -2,7 +2,7 @@
 
 SaveGame Manager GX is a homebrew app that lets you extract (back up) and install save files from or to your Wii.
 
-!> The application may not work if you haven't installed [cIOS](https://wii.skyybrew.xyz/#/cIOS)
+!> The application may not work if you haven't installed [cIOS](/cIOS)
 
 ## Let's now install this software.
 

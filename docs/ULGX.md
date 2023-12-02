@@ -36,4 +36,3 @@ ULGX is a homebrew program for the **Wii** It can be installed multiple ways, so
     ```
 5. Once you're in the Wii, Open the Homebrew Channel and launch USB Loader GX from the list of homebrew, your games should be there.
 
-!> If you have any issues (i.e. games not showing), [go to this discord server & ask for help (in english)](https://discord.gg/QvGQqx8Mns)

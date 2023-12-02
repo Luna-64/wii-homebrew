@@ -1,7 +1,5 @@
 # Bluebomb
 
-?> For support in English, ask in the discord [server](https://discord.gg/QvGQqx8Mns)
-
 !> Modding does not come with a warranty, and we are not responsible for any damage done to your Wii.
 
 !> For the RVL-001 and RVL-101 model Wiis, it is not recommend to use BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.

@@ -1,7 +1,5 @@
 # Letterbomb
 
-?> For English support, you can ask for assistance on the Discord server [here](https://discord.gg/QvGQqx8Mns)
-
 !> Please note that modding your Wii does not come with a warranty, and we cannot be held responsible for any damage that may occur to your Wii during the process.
 
 # Running the Exploit

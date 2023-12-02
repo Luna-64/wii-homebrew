@@ -16,7 +16,5 @@
 
 !> If your cursor freezes reset your wii in try again. If the problem persists you can delete your browser cookies and/or save data for the internet channel.
 
-If it doesn't work, continue to try again or join the [Skyybrew Discord](https://discord.gg/k5z4S83x8S) for more help.
-
 Now that you have booted into the Hackmii Installer, [Continue to the Hackmii Installer Page](/hackmii-installer)
 
