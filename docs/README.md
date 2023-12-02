@@ -6,3 +6,5 @@ This guide will help you mod your Wii.
 To get started, [choose your exploit](/chooseyourexploit).
 
 You can find all of our pages and tutorials [here](/navigation.md).
+
+Site Credits can be found [here](/credits)
