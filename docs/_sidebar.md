@@ -16,6 +16,7 @@
 - **The Essentials**
 - [Priiloader](/priiloader)
 - [cIOS](/cIOS)
+- [Wii Mini cIOS](/cIOS-mini)
 - [Riivolution](/riivolution)
 - [USB Loader GX](/ULGX)
 - [Nintendont](/nintendont)

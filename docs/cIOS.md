@@ -4,7 +4,7 @@ This guide will help you install cIOS on your Wii, needed for many homebrew apps
 
 !> The installation is different for both vWii and Wii Mini. Installing the wrong type of cIOS could brick your system.
 
-?> To install cIOS on Wii Mini, follow [this guide](cios-mini)
+?> To install cIOS on Wii Mini, follow [this guide](/cIOS-mini)
 
 ### What do you need
 
@@ -16,7 +16,7 @@ This guide will help you install cIOS on your Wii, needed for many homebrew apps
 
 ### Installing cIOS in a normal Wii
 
-!> Make sure the lock switch on the SD card is in the unlocked position!
+?> Make sure the lock switch on the SD card is in the unlocked position!
 
 1. Extract the files and put the "apps" folder on the root of your device.
 2. Run d2x cIOS installer on the Homebrew Channel.

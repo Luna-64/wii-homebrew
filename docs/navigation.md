@@ -21,6 +21,8 @@ These are all of our current pages.
 
 [cIOS](/cIOS)
 
+[Wii Mini cIOS](/cIOS-mini)
+
 [Riivolution](/riivolution)
 
 [USB Loader GX](/ULGX)

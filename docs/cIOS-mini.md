@@ -1,5 +1,9 @@
 # Installing cIOS (Wii Mini)
 
+!> The installation is different for both Wii and vWii. Installing the wrong type of cIOS could brick your system.
+
+?> To install cIOS on a regular Wii, follow [this guide](/cIOS)
+
 ### What you need
 - [d2xl cIOS Installer](https://wii.guide/assets/files/d2xl_wii_mini_cIOS_installer_v1_beta2.zip)
 - A USB Drive
