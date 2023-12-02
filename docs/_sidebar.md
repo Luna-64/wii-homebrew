@@ -14,6 +14,7 @@
 - [cIOS](/cIOS)
 - [Riivolution](/riivolution)
 - [USB Loader GX](/ULGX)
+- [Nintendont](/nintendont)
 - [Open Shop Channel](/OSC)
 - [Save Game Manager GX](/sgmgx)
 ---
@@ -22,7 +23,6 @@
 [RiiConnect24](/rc24)
 ---
 - **Extra Information**
-[Extra Info](/FAQ)
 [Credits](/credits)
 ---
 - **Socials**
