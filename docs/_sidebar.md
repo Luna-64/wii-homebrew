@@ -2,14 +2,13 @@
 - [Introduction](/README)
 ---
 - **Main Guide**
-- [Choose your exploit](/chooseyourexploit)
-  [str2hax](/str2hax)
-  [LetterBomb](/letterbomb)
-  [Bluebomb](/bluebomb)
-  [FlashHax](/FlashHax)
+  [Choose your exploit](/chooseyourexploit)
+- [str2hax](/str2hax)
+- [LetterBomb](/letterbomb)
+- [Bluebomb](/bluebomb)
+- [FlashHax](/FlashHax)
 
 - [Hackmii Installer](/hackmii-installer)
--
 - [NAND Backup](/nandbackup)
 ---
 - **The Essentials**
