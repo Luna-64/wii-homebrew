@@ -30,8 +30,8 @@ These are all of our current pages.
 
 ### Services
 [WiiLink24](/WiiLink)
+
 [RiiConnect24](/rc24)
 
 ### Extra info
-[FAQ](/FAQ]
 [Credits](/credits)
