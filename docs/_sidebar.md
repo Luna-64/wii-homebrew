@@ -1,16 +1,16 @@
 - **Welcome**
 - [Introduction](/README)
 ---
-- **Exploits**
+- **Main Guide**
 - [Choose your exploit](/chooseyourexploit)
+  [str2hax](/str2hax)
+  [LetterBomb](/letterbomb)
+  [Bluebomb](/bluebomb)
+  [FlashHax](/FlashHax)
+
+- [Hackmii Installer](/hackmii-installer)
 -
-- [str2hax](/str2hax)
--
-- [LetterBomb](/letterbomb)
--
-- [Bluebomb](/bluebomb)
--
-- [FlashHax](/FlashHax)
+- [NAND Backup](/nandbackup)
 ---
 - **The Essentials**
 - [Priiloader](/priiloader)
@@ -22,8 +22,8 @@
 - [Save Game Manager GX](/sgmgx)
 ---
 - **Services**
-[WiiLink24](/WiiLink)
-[RiiConnect24](/rc24)
+- [WiiLink24](/WiiLink)
+- [RiiConnect24](/rc24)
 ---
 - **Extra Information**
 [Credits](/credits)
