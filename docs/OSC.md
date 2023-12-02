@@ -4,12 +4,12 @@
 
 ## Required Downloads
 
-The Homebrew Browser, which you can grab from [here](https://wii.guide/assets/files/homebrew_browser_v0.3.9e.zip)
+[Homebrew Browser](https://hbb1.oscwii.org/api/v3/contents/homebrew_browser/homebrew_browser.zip)
 
 ## Install Guide
-1. Unzip the homebrew browser file and save it to your SD card in the following location: SD:/apps/homebrew_browser.
-2. Safely remove the SD card from your computer.
-3. Insert the SD card into your Wii and start the Homebrew Channel.
-4. Open the Homebrew Browser within the Homebrew Channel. Don't worry if you see colored stripes on the screen – that's normal.
+1. Copy the apps folder from the .zip you downloaded, and copy it onto the root of your SD card.
+2. Open the Homebrew Channel and launch the Homebrew Browser from the list of homebrew
+- Don't worry if you see colored stripes on the screen – that's normal.
 5. The Homebrew Browser will launch and connect to the Open Shop Channel servers.
 6. Browse and download any homebrew applications you want.
+?> If you get a crash during a download of a homebrew application, this is normal. The Homebrew Browser is unstable.
