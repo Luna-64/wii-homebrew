@@ -2,7 +2,7 @@
 
 A guide to help you mod your Nintendo Wii, from stock to cIOS.
 
-?> For help in English, visit the [Discord server](https://discord.com/invite/QvGQqx8Mns)
+?> For help in English, visit the [Discord server](https://discord.gg/dK5rNaMhMt)
 ## Modded Wii Uses
 - Patch your disks to play ROM Hacks of games you own
 - Play backups of games you own on your console from a USB drive or SD card without the need for the disc
