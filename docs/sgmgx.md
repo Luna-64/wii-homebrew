@@ -19,12 +19,12 @@ SaveGame Manager GX is a homebrew app that lets you extract (back up) and instal
 
 1. Place your save files on the ```savegames``` folder on the root of your SD/USB (create one if you don't have it)
 2. Open SaveGame Manager GX.
-3. Identify the save file, then click on it.
+3. Find the save file, then click on it.
 4. Press install.
 
 !> To install a save file, you need another one already on your Wii.
 
-### Exporting save files
+### Backing up saves
 
 1. Identify and click the save file.
 2. Either click copy or move, depending on what you want to do.
