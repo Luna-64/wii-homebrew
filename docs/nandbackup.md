@@ -14,22 +14,22 @@ The primary function of BootMii is to create a backup of your Wii system's NAND.
 
 1. Launch the Homebrew Channel
 2. Press the `home` button and select `Launch BootMii`
-[Launch Bootmii](bootmii-images/launch-bootmii.png)
+![Launch Bootmii](bootmii-images/launch-bootmii.png)
 
 ## Backing up the NAND
 
 ?> Please note that navigating the BootMii menus cannot be done using a Wii remote. Instead, you will need to use either the `power` and `reset` buttons on the Wii console itself or a GameCube controller to navigate through the BootMii menu options.
 
 3. From the BootMii menu, select the icon that resembles gears.
-[NAND Backup Options](bootmii-images/bootmii-settings.png)
+![NAND Backup Options](bootmii-images/bootmii-settings.png)
 4. Within the gears menu, locate and select the icon for BackUpMii.
     - The process of backing up the NAND will commence.
     - Please note that encountering `bad blocks` during this process is normal.
-[NAND Backup start](bootmii-images/nand-backup.png)
-[NAND Backup](bootmii-images/nand-backup2.png)
+![NAND Backup start](bootmii-images/nand-backup.png)
+![NAND Backup](bootmii-images/nand-backup2.png)
 5. Once the backup is complete, you can exit by pressing any button.
 6. To exit BootMii, press the back button.
-[Back](bootmii-images/back.png)
+![Back](bootmii-images/back.png)
 7. It is important to store the NAND Backup in a safe and secure location on your computer for future reference and potential restoration purposes.
 
 - Continue to installing [priiloader](priiloader)
