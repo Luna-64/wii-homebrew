@@ -19,6 +19,7 @@
 ?> Do not share your mac address with anyone. Only the website to launch the exploit.
 
 3. Open a web browser on your PC and go to the [Wilbrand Website](https://wilbrand.donut.eu.org/). Select the appropriate system menu region for your Wii.
+![Wilbrand](wilbrand-images/wilbrand.png)
 4. Once you've inputted your system menu version and region, enter your Wii's MAC address.
 5. Tick the box that says `Bundle the HackMii Installer for me!`. Then, cut either wire.
 6. Extract the downloaded file's contents on your PC, and then connect your SD card (formatted to FAT32) to your computer.
