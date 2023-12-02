@@ -6,7 +6,7 @@
 ## Requirements
 
 - A softmodded Nintendo Wii
-- An SD card, with over 2GB free space
+- An SD card, with over 2GB of free space
 - The Mario Kart Wii disc
 - The CTGPR download, which can be found [here](https://www.chadsoft.co.uk/download/)
 
@@ -15,7 +15,8 @@
 ## Installing CTGP-R
 
 1. Download the CTGP-R file from the provided source.
-2. Extract the downloaded .zip file using 7zip or WinRAR. If you are using MacOS, use The Unarchiver.
+2. Extract the downloaded .zip file.
+* If you are using MacOS, use The Unarchiver.
 3. Open the extracted folder and remove the `licenses.txt` and `readme.txt` files to save space.
 4. Copy all the remaining files and folders to the root directory of your SD card. For the `apps` folder, navigate inside it, and copy the CTGP-R folder (located within the `apps` folder) to the corresponding `apps` folder on your SD card.
 5. Safely eject the SD card from your computer and insert it into your Wii.
@@ -27,6 +28,5 @@
 ## Usage
 
 1. After completing the installation, go to the launch option within CTGP-R.
-2. The launch process will begin. Check the color of the UPNP indicator on the bottom right corner, ensuring it is either yellow or red.
+2. The launch process will begin. Check the colour of the UPNP indicator on the bottom right corner, ensuring it is either yellow or green.
 3. Once the launch process is complete, you will have successfully entered CTGP-R.
-4. You can now enjoy playing numerous new tracks or participate in online gameplay using Wiimmfi. Have fun!
