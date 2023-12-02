@@ -27,6 +27,7 @@
 - [RiiConnect24](/rc24)
 ---
 - **Extra Information**
+- [Navigation](/navigation)
 - [Credits](/credits)
 ---
 - **Socials**
