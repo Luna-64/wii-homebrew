@@ -4,9 +4,10 @@
 - **Exploits**
 - [Choose your exploit](/chooseyourexploit)
 - [str2hax](/str2hax)
-- [LetterBomb](/letterbomb)
+- [Wilbrand](/wilbrand)
 - [Bluebomb](/bluebomb)
 - [FlashHax](/FlashHax)
+- [LetterBomb](/letterbomb)
 ---
 - **Hackmii**
 - [Hackmii Installer](/hackmii-installer)
