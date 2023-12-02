@@ -1,9 +1,10 @@
 ## USB Loader GX
 
-ULGX (USB Loader GX) is a utility to boot backed up Wii & GameCube games. You can load from HDD or SD card.
+ULGX (USB Loader GX) is a utility to boot backed-up Wii & GameCube games. You can load from a Hard Drive or SD card.
 
 ULGX is a homebrew program for the **Wii** It can be installed multiple ways, some easier than others.
 
+?> You must dump your games if you want to use USB loader GX, You can find a guide [here.](https://wiki.hacks.guide/wiki/Wii:Dump_Games)
 ### You will need:
  * An SD card formatted to FAT32
  * A Wii
