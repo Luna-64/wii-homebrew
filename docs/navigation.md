@@ -16,6 +16,7 @@ These are all of our current pages.
 [LetterBomb](/letterbomb)
 
 [Bannerbomb](/Bannerbomb)
+
 ### The Essentials
 [Priiloader](/priiloader)
 
@@ -37,6 +38,9 @@ These are all of our current pages.
 [WiiLink24](/WiiLink)
 
 [RiiConnect24](/rc24)
+
+### Other Homebrew Apps
+[Koreankii](/koreankii)
 
 ### Extra info
 [Credits](/credits)
