@@ -4,10 +4,12 @@ This guide will help you remove or add the **KoreanKii** to your Wii. This can b
 
 !> Warning! Do not use KoreanKii on a non Korean Wii! It will brick the system.
 
+!> Koreankii modifies important system files, ensure that you have sufficient protection against bricks (bootmii and priiloader) before proceeding. 
+
 ?> By removing the korean key, you can fix error 003 bricks.
 
 ### What do you need:
-- [KoreanKii](https://www.mediafire.com/file/7s7pc7pikx182mw/KoreanKii_v1.1.zip/file)
+- [KoreanKii](https://hbb1.oscwii.org/api/v3/contents/KoreanKii/KoreanKii.zip)
 - The Homebrew Channel
 
 ### Removing the Korean key
