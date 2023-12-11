@@ -32,14 +32,16 @@ These are all of our current pages.
 
 [Open Shop Channel](/OSC)
 
-[Save Game Manager GX](/sgmgx)
-
 ### Services
 [WiiLink24](/WiiLink)
 
 [RiiConnect24](/rc24)
 
 ### Other Homebrew Apps
+[CTGP-R](/CTGPR)
+
+[Save Game Manager GX](/sgmgx)
+
 [Koreankii](/koreankii)
 
 ### Extra info
