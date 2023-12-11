@@ -21,7 +21,6 @@
 - [USB Loader GX](/ULGX)
 - [Nintendont](/nintendont)
 - [Open Shop Channel](/OSC)
-- [Save Game Manager GX](/sgmgx)
 ---
 - **Services**
 - [WiiLink24](/WiiLink)
