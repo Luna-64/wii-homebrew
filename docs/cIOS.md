@@ -70,6 +70,6 @@ Select cIOS revision: 65535
 
 - Continue to installing the [Open Shop Channel](/OSC). The Open Shop Channel allows you to install homebrew apps directly to your Wii. 
 
-- Continue to installing [USB Loader Gx](/ULGX). USB Loader GX allows you to run game backups directly of an external drive or SD card. 
+- Continue to installing [USB Loaders](/usbloaders). USB Loaders allow you to run game backups directly of an external drive or SD card. 
 
 - Have other plans for what you want to do on your Wii? You can find all of our guides on the [Site Navigation Page](/navigation).

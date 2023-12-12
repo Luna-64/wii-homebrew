@@ -18,7 +18,7 @@
 - [cIOS](/cIOS)
 - [Wii Mini cIOS](/cIOS-mini)
 - [Riivolution](/riivolution)
-- [USB Loader GX](/ULGX)
+- [USB Loaders](/usbloaders)
 - [Nintendont](/nintendont)
 - [Open Shop Channel](/OSC)
 ---

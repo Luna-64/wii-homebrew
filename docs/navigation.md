@@ -26,7 +26,7 @@ These are all of our current pages.
 
 [Riivolution](/riivolution)
 
-[USB Loader GX](/ULGX)
+[USB Loaders](/usbloaders)
 
 [Nintendont](/nintendont)
 
