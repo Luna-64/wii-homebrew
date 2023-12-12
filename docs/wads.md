@@ -25,4 +25,4 @@ Wads are an important resource for modding Wiis. Their main use is for Wii Chann
 7. Press A again to install the WADs.
 8. Press any button to continue, then press the home button to return back to the homebrew channel.
 
-- If you would like to uninstall a WAD repeat the steps above, but select `Uninstall WAD` instead on step 7.
+- If you would like to uninstall a WAD repeat the steps above, but select `Uninstall WAD` on step 7.
