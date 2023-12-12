@@ -44,9 +44,12 @@ These are all of our current pages.
 
 [Save Game Manager GX](/sgmgx)
 
+[Syscheck ModMii Edition](/syscheck)
+
 [Koreankii](/koreankii)
 
-[Syscheck ModMii Edition](/syscheck)
+### Tools
+[Wii Backup Manager](/wiibackupmanager)
 
 ### Extra info
 [Credits](/credits)
