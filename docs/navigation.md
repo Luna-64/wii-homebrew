@@ -32,6 +32,8 @@ These are all of our current pages.
 
 [Open Shop Channel](/OSC)
 
+[YAWM ModMii Edition](/wads)
+
 ### Services
 [WiiLink24](/WiiLink)
 

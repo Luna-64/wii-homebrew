@@ -16,11 +16,11 @@
 - **The Essentials**
 - [Priiloader](/priiloader)
 - [cIOS](/cIOS)
-- [Wii Mini cIOS](/cIOS-mini)
 - [Riivolution](/riivolution)
 - [USB Loaders](/usbloaders)
 - [Nintendont](/nintendont)
 - [Open Shop Channel](/OSC)
+- [WADs](/wads)
 ---
 - **Services**
 - [WiiLink24](/WiiLink)
