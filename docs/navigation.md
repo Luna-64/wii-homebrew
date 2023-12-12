@@ -46,5 +46,7 @@ These are all of our current pages.
 
 [Koreankii](/koreankii)
 
+[Syscheck ModMii Edition](/syscheck)
+
 ### Extra info
 [Credits](/credits)
