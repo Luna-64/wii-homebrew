@@ -18,6 +18,6 @@ If everything goes well, you should have everything you started with (WiiWare, s
 Keep your console plugged in at all times to prevent data loss & damage.
 ## [Continue to choose your exploit](/chooseyourexploit).
 
-You can find all of our pages and tutorials [here](/navigation.md).
+You can find all of our pages and tutorials [here](navigation).
 
-Site Credits can be found [here](/credits)
+Site Credits can be found [here](credits).
