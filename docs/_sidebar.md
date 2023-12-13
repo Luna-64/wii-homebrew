@@ -2,6 +2,7 @@
 - [Introduction](/README)
 - **Exploits**
 - [Choose your exploit](/chooseyourexploit)
+- [ModMii](modmii)
 - [str2hax](/str2hax)
 - [Wilbrand](/wilbrand)
 - [Bluebomb](/bluebomb)
