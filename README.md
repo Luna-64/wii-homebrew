@@ -7,8 +7,6 @@ The code found is a modified version of Skyybrew's code, the original developers
 - Zuper (Project lead, developer, writer)
 - Firestorm (Writer)
 - Penguru (Writer)
-- Bott (Writer)
-- Obamium (Developer, writer)
 - SammyGoesHowdy (Writer)
 - FunkyScott47 (Images)
 
