@@ -53,5 +53,8 @@ These are all of our current pages.
 ### Tools
 [Wii Backup Manager](/wiibackupmanager)
 
-### Extra info
+### Modding Information
+[Bricks](bricks)
+
+### Credits
 [Credits](/credits)
