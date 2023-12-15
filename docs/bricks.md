@@ -60,7 +60,7 @@ This happens when an update from the wrong region is installed to a Wii. The set
 
 **How to fix:** You need the Homebrew Channel to fix this.
 1. Boot up the Homebrew Channel.
-2. Launch [Wii Mod Lite](https://www.hbb1.oscwii.org/api/v3/contents/WiiModLite/WiiModLite.zip).
+2. Launch [Wii Mod Lite](https://hbb1.oscwii.org/api/v3/contents/WiiModLite/WiiModLite.zip).
 3. Go to "Display System information" and check your region.
 4. Go to "Region Changer" and change your region to the one displayed in the info tab.
 
@@ -69,4 +69,4 @@ The system menu will refuse to boot in this brick. This can happen for many reas
 
 **How to check:** The wii gives no signal, or displays an Opera error instead of the Health and Safety screen. Both cases can be fixed with BootMii as boot2 by restoring a NAND backup, but in the case of an Opera error, Bluebomb can be used to fix it.
 
-**How to fix:** You can either restore a NAND backup (BootMii as boot2 only) or if the screen displays an Opera error, you can use [Bluebomb](https://www.zuper64.github.io/wii-homebrew/#/bluebomb).
+**How to fix:** You can either restore a NAND backup (BootMii as boot2 only) or if the screen displays an Opera error, you can use [Bluebomb](bluebomb).
