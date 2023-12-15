@@ -42,14 +42,14 @@ This happens when the System Menu's IOS is corrupted. It can only be fixed with 
 !> Make sure to NOT turn off your Wii when restoring a NAND backup!
 
 ## Error 003 bricks
-This brick is not really accidental. It only happens if you install a system menu with a version higher than 4.1 on a Korean Wii, or you add the Korean key on a non Korean Wii. This can be done with [KoreanKii](https://www.zuper64.github.io/wii-homebrew/#/koreankii).
+This brick is not really accidental. It only happens if you install a system menu with a version higher than 4.1 on a region changed Korean Wii, or you add the Korean key on a non Korean Wii. This can be done with [KoreanKii](koreankii).
 
 **How to check:** On start-up, the Wii displays the `Error 003: anouthorized device detected`.
 
 **How to fix:** You need either Priiloader or BootMii as boot2 to fix this.
 1. If you have Priiloader, hold `RESET` while turning on your Wii access Priiloader.
 2. From that, launch the Homebrew Channel. Then, launch KoreanKii.
-3. You now can use [KoreanKii](https://www.zuper64.github.io/wii-homebrew/#/koreankii) to remove the Korean key.
+3. You now can use [KoreanKii](koreankii) to remove the Korean key.
 
 ?> If you have BootMii instead, you can restore a NAND backup to fix this brick.
 
