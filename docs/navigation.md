@@ -53,6 +53,8 @@ These are all of our current pages.
 ### Tools
 [Wii Backup Manager](/wiibackupmanager)
 
+[WiiGSC](wiigsc)
+
 ### Modding Information
 [Bricks](bricks)
 
