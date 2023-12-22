@@ -17,7 +17,7 @@ These are all of our current pages.
 
 [LetterBomb](/letterbomb)
 
-[Bannerbomb](/Bannerbomb)
+[Bannerbomb](/bannerbomb)
 
 ### The Essentials
 [Priiloader](/priiloader)
