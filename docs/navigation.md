@@ -53,6 +53,8 @@ These are all of our current pages.
 ### Tools
 [Wii Backup Manager](/wiibackupmanager)
 
+[GameCube Backup Manager](gcbackupmanager)
+
 [WiiGSC](wiigsc)
 
 ### Modding Information
