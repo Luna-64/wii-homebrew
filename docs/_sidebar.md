@@ -20,6 +20,7 @@
 - [Open Shop Channel](/OSC)
 - [WADs](/wads)
 - **Services**
+- [Wiimmfi](wiimmfi)
 - [WiiLink24](/WiiLink)
 - [RiiConnect24](/rc24)
 - **Extra Information**

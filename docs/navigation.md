@@ -37,6 +37,8 @@ These are all of our current pages.
 [YAWM ModMii Edition](/wads)
 
 ### Services
+[Wiimmfi](wiimmfi)
+
 [WiiLink24](/WiiLink)
 
 [RiiConnect24](/rc24)
