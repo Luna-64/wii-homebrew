@@ -9,6 +9,7 @@ The code found is a modified version of Skyybrew's code, the original developers
 - Penguru (Writer)
 - SammyGoesHowdy (Writer)
 - FunkyScott47 (Images)
+- xiudeveloper (Bought [domain](https://zuper64.rocks/))
 
 ## Skyybrew Developers
 - Skyy
